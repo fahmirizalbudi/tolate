@@ -11,13 +11,13 @@ import FeatureCard from './FeatureCard.vue';
         the clutter.</span>
     </div>
     <div class="feature__grid">
-      <FeatureCard icon="/feature-1.svg" title="Effortlessly Add Tasks"
+      <FeatureCard icon="feature-1.svg" title="Effortlessly Add Tasks"
         description="Quickly capture your thoughts and to-dos the moment they strike." />
-      <FeatureCard icon="/feature-2.svg" title="Organize with Categories"
+      <FeatureCard icon="feature-2.svg" title="Organize with Categories"
         description="Group your tasks into projects and categories to keep your list tidy." />
-      <FeatureCard icon="/feature-3.svg" title="Never Miss a Deadline"
+      <FeatureCard icon="feature-3.svg" title="Never Miss a Deadline"
         description="Set due dates and reminders to ensure nothing falls through the cracks." />
-      <FeatureCard icon="/feature-4.svg" title="Focus with Dark Mode"
+      <FeatureCard icon="feature-4.svg" title="Focus with Dark Mode"
         description="Switch to a sleek, eye-friendly theme for late-night work sessions." />
     </div>
   </section>
