@@ -1,5 +1,31 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 🌐 Tolate
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+**Tolate** A landing page of Tolate — a todo list application.
+
+![Tolate Preview](https://raw.githubusercontent.com/fahmirizalbudi/tolate/refs/heads/main/screencapture-tolate.png)
+
+---
+
+## 🔧 Description
+
+- ⌨️ This project is a frontend UI without backend functionality.
+- 🖼️ All elements are provided by Figma.
+- 💾 Built with <span style="color: #47BA87; font-weight: bold;">Vue</span>.
+
+---
+
+## 🚀 Instalasi
+
+```bash
+git clone https://github.com/fahmirizalbudi/tolate.git
+cd tolate
+npm install
+npm run dev
+```
+
+---
+
+## 🖼️ Figma Design
+
+Link : [Tolate - Figma Design](https://www.figma.com/design/aipDmV6nENuXj3D0Uq9jJR/Tolate)
