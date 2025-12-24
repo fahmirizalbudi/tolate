@@ -1,32 +1,73 @@
-# 🌐 Tolate
+<div align="center">
+<a href="https://github.com/fahmirizalbudi/tolate" target="blank">
+<img src="https://raw.githubusercontent.com/fahmirizalbudi/tolate/bef362eb46f3771ab7aee7c3cd9af16c4e793271/public/tolate.svg" width="260" alt="Logo" />
+</a>
+<br/>
 
-**Tolate** A landing page of Tolate — a todo list application.
+<br />
+<br />
 
-![Tolate Preview](https://raw.githubusercontent.com/fahmirizalbudi/tolate/refs/heads/main/screencapture-tolate.png)
+![](https://img.shields.io/badge/vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 
----
+</div>
 
-## 🔧 Description
+<br />
 
-- ⌨️ This project is a frontend UI without backend functionality.
-- 🖼️ All elements are provided by Figma.
-- 💾 Built with <svg xmlns="http://www.w3.org/2000/svg" width="300" height="40">
-  <text x="0" y="40" fill="#47BA87">Vue</text>
-  </svg>
+## 🌐 Tolate
 
----
+Tolate is a todo list landing web application. Built on Vue. Key features include:
 
-## 🚀 Instalasi
+## 🖼️ Preview
 
-```bash
-git clone https://github.com/fahmirizalbudi/tolate.git
-cd tolate
-npm install
-npm run dev
-```
+![](screencapture-tolate.png)
 
----
+## ✨ Features
 
-## 🖼️ Figma Design
+- **💚 Powered by Vue:** Built using the progressive JavaScript framework.
+- **🎨 Modern UI/UX:** Clean and aesthetic design implemented.
 
-Link : [Tolate - Figma Design](https://www.figma.com/design/aipDmV6nENuXj3D0Uq9jJR/Tolate)
+## 👩‍💻 Tech Stack
+
+- **Vue.js**: The Progressive JavaScript Framework used for building the user interface and handling application logic.
+
+## 📦 Getting Started
+
+To get a local copy of this project up and running, follow these steps.
+
+### 🚀 Prerequisites
+
+- **Node.js** & **NPM**.
+
+## 🛠️ Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/fahmirizalbudi/tolate.git
+   cd tolate
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+## 📖 Usage
+
+### ✔ Running the Application
+
+- **Development mode:** `npm run dev`.
+- **Production mode:** `npm run build`.
+
+> Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+## 📜 License
+
+All rights reserved. This project is for educational purposes only and cannot be used or distributed without permission.
