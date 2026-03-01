@@ -13,32 +13,32 @@
 
 <br />
 
-## 🌐 Tolate
+## Tolate
 
 Tolate is a todo list landing web application. Built on Vue. Key features include:
 
-## 🖼️ Preview
+## Preview
 
 ![](screencapture-tolate.png)
 
-## ✨ Features
+## Features
 
-- **💚 Powered by Vue:** Built using the progressive JavaScript framework.
-- **🎨 Modern UI/UX:** Clean and aesthetic design implemented.
+- **Powered by Vue:** Built using the progressive JavaScript framework.
+- **Modern UI/UX:** Clean and aesthetic design implemented.
 
-## 👩‍💻 Tech Stack
+## Tech Stack
 
 - **Vue.js**: The Progressive JavaScript Framework used for building the user interface and handling application logic.
 
-## 📦 Getting Started
+## Getting Started
 
 To get a local copy of this project up and running, follow these steps.
 
-### 🚀 Prerequisites
+### Prerequisites
 
 - **Node.js** & **NPM**.
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -59,15 +59,15 @@ To get a local copy of this project up and running, follow these steps.
    npm run dev
    ```
 
-## 📖 Usage
+## Usage
 
-### ✔ Running the Application
+### Running the Application
 
 - **Development mode:** `npm run dev`.
 - **Production mode:** `npm run build`.
 
 > Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
-## 📜 License
+## License
 
 All rights reserved. This project is for educational purposes only and cannot be used or distributed without permission.
